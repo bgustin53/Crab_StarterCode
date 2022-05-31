@@ -5,10 +5,9 @@ import greenfoot.*;
  */
 public class Crab extends Actor
 {
-    public void act()
-    {
-        // Add your action code here
-    }
+    // Always place field first in the class.
+    
+    // After the fields place the behaviors
 }
 
 
