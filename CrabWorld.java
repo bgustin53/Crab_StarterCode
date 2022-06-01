@@ -9,5 +9,13 @@ public class CrabWorld extends World
     public CrabWorld() 
     {
         super(560, 560, 1);
+        prepareScene();
+    }
+    
+    private void prepareScene()
+    {
+        // instantiate new objects
+        
+        // add them to the world
     }
 }
